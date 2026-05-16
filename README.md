@@ -213,7 +213,7 @@ class YasirShaikh:
 
 Programming & Backend
   🔵 Python          🟡 FastAPI        🔴 Node.js
-  🔵 JavaScript      🟡 REST APIs      🔴 GraphQL
+  🔵 JavaScript      🔴 REST APIs      🔴 GraphQL
 
 Frontend
   🔵 HTML/CSS        🔴 React.js       🔴 Next.js
