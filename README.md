@@ -212,7 +212,7 @@ class YasirShaikh:
 🔵 Mastered      🟡 Learning      🔴 Planned
 
 Programming & Backend
-  🔵 Python          🟡 FastAPI        🔴 Node.js
+  🔵 Python          🔴 FastAPI        🔴 Node.js
   🔵 JavaScript      🔴 REST APIs      🔴 GraphQL
 
 Frontend
