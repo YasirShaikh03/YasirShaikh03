@@ -260,7 +260,7 @@ Cybersecurity
 <div align="center">
 
 ```
-📍 Maharashtra, India
+📍Mumbai, Maharashtra, India
 🎓 Anjuman-I-Islam Kalsekar Technical Campus | Mumbai University
 💼 Open to: Internships • Collaborations • Hackathons • Open Source
 ```
