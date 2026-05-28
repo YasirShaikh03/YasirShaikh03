@@ -232,7 +232,7 @@ Databases
   🔵 Firebase DB     🔴 Redis          🔴 Vector DBs
 
 Cybersecurity
-  🟡 Security Basics 🔴 Ethical Hacking 🔴 Penetration Testing
+  🔴 Security Basics 🔴 Ethical Hacking 🔴 Penetration Testing
 ```
 
 ---
