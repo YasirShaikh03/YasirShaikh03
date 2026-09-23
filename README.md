@@ -224,12 +224,13 @@ AI & Machine Learning
   🔴 LLM APIs        🔴 PyTorch        🔴 Fine-tuning LLMs
 
 DevOps & Cloud
-  🔵 Git/GitHub      🔴 Docker         🔴 AWS / GCP
-  🔵 Firebase        🔴 CI/CD          🔴 Kubernetes
+  🔵 Git/GitHub      🟡 Docker         🔴 AWS / GCP
+  🟡 Firebase        🔴 CI/CD          🔴 Kubernetes
 
 Databases
   🔵 SQL             🟡 MongoDB        🔴 PostgreSQL
   🔵 Firebase DB     🔴 Redis          🔴 Vector DBs
+  🟡 PowerBI
 
 Cybersecurity
   🔴 Security Basics 🔴 Ethical Hacking 🔴 Penetration Testing
